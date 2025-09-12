@@ -1,3 +1,19 @@
+The Sakura public lisence
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+OSPL Version 1.0, 2025
+
+CC0 1.0 Universal (CC0 1.0) Public Domain Dedication (See following notice)
+
+**Note:** The following license text is released under CC0 1.0 Universal for maximum freedom of reuse, modification, and sharing.  
+[Full legal text from: https://creativecommons.org/publicdomain/zero/1.0/legalcode]
+
+**This CC0 dedication applies only to the license text itself, _not_ to the software/project.**  
+The terms for this project is described in the license below.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
 Please read this License carefully before downloading this software. By downloading or using this software, you are agreeing to be bound by the terms of this License. If you do not or cannot agree to the terms of this License, please do not download or use the software.
 
 1. Definitions:
