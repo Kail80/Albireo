@@ -1,4 +1,4 @@
-The Sakura public lisence
+The Open Sakura Public License
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
@@ -14,34 +14,44 @@ The terms for this project is described in the license below.
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
-Please read this License carefully before downloading this software. By downloading or using this software, you are agreeing to be bound by the terms of this License. If you do not or cannot agree to the terms of this License, please do not download or use the software.
+Please read this License carefully before downloading this software. By downloading or using this software, you are agreeing to be bound by the terms of this License. If you do not or cannot agree to the terms of this License, do not download or use this software.
 
 1. Definitions:
-        1.1  "Contributor" means any person or entity that creates or contributes to the creation of Modifications.
+    1.1  "Contributor" means any person or entity that creates or contributes to the creation of Modifications.
 
-        1.2 "Covered Code" means the Original Code, Modifications, the combination of Original Code and any Modifications, and/or any respective portions thereof.
+    1.2 "Covered Work" means the Original Code, Modifications, the combination of Original Code and any Modifications, and/or any respective portions thereof thats version is currently under this licence.
 
-        1.3 "Covered Code" means the Original Code, Modifications, the combination of Original Code and any Modifications, and/or any respective portions thereof.
+    1.3 "Modification" Any procedure that produces a Derived Work under any applicable law - for example, the production of a file containing an original file associated with the Work or a significant portion of such a file, either verbatim or with modifications and/or translated into another language.
 
-        1.4 "Larger Work" means a work which combines Covered Code or portions thereof with code not governed by the terms of this License.
+    1.4 "Larger Work" means a work which combines Covered Code or portions thereof with code not governed by the terms of this License.
 
-        1.5 "Modifications" mean any addition to, deletion from, and/or change to, the substance and/or structure of the Original Code, any previous Modifications, the combination of Original Code and any previous Modifications, and/or any respective portions thereof.
+    1.5 "Modifications" mean any addition to, deletion from, and/or change to, the substance and/or structure of the Original Code, any previous Modifications, the combination of Original Code and any previous Modifications, and/or any respective portions thereof.
 
-        1.6 "Original Code" means (a) the Source Code of a program or other work as originally made available under this License, including the Source Code of any updates or upgrades.
+    1.6 "Original Code" means (a) the Source Code of a program or other work as originally made available under this License, including the Source Code of any updates or upgrades.
 
-        1.7  "Source Code" means the non-binary or originally produced form of a program or other work that is capable of being modified, including all modules it contains.
+    1.7  "Source Code" means the non-binary or originally produced form of a program or other work that is capable of being modified, including all modules it contains.
 
-        1.8 "You" or "Your" means an individual or a legal entity exercising rights under this License. For legal entities, "You" or "Your" includes any entity which controls, is controlled by, or is under common control with, You, where "control" means (a) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (b) ownership of fifty percent (50%) or more of the outstanding shares or beneficial ownership of such entity.
+    1.8 "Distribution" Making copies of the Covered Work available from one person to another or multiple persons, whole or in part.
+
+    1.9 "You" or "Your" means an individual or a legal entity exercising rights under this License. For legal entities, "You" or "Your" includes any entity which controls, is controlled by, or is under common control with, You, where "control" means (a) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (b) ownership of fifty percent (50%) or more of the outstanding shares or beneficial ownership of such entity.
 
 
-2. Permitted uses:
-        2.1 Unmodified Code. You may use, reproduce, display, perform, internally distribute within Your organization, and Externally Deploy verbatim, unmodified copies of the Original Code, for only non-commercial purposes, provided that in each instance:
-        (a) You must retain and reproduce in all copies of Original Code the copyright and other notices and disclaimers of the Original Code as they appear in the Original Code, and keep intact all notices in the Original Code that refer to this License; and
-        (b) You must include a copy of this License in readable text with every copy of Covered Code and documentation You distribute or Externally Deploy, and You may not offer or impose any terms on such Source Code that alter or restrict this License or the recipients' rights hereunder, except as permitted under Section 6.
+2. Permitted and Unpermitted uses:
+    2.1 Unmodified Code. You may use, reproduce, display, perform, internally distribute within Your organization, and Externally Deploy verbatim, unmodified copies of the Original Code, for only non-commercial purposes, provided that in each instance:
+    (a) You must retain and reproduce in all copies of Original Code the copyright and other notices and disclaimers of the Original Code as they appear in the Original Code, and keep intact all notices in the Original Code that refer to this License; and
+    (b) You must include a copy of this License in readable text with every copy of Covered Code and documentation You distribute or Externally Deploy, and You may not offer or impose any terms on such Source Code that alter or restrict this License or the recipients' rights hereunder, except as permitted under Section 6.
 
-        2.2 Modified Code. You may modify Covered Code and use, reproduce, display, perform, internally distribute within Your organization, and Externally Deploy Your Modifications and Covered Code, for commercial or non-commercial purposes, provided that in each instance You also meet all of these conditions:
-        (a) You must satisfy all the conditions of Section 2.1 with respect to the Source Code of the Covered Code;
-        (b) If You Externally Deploy Your Modifications, You must make Source Code of all Your Externally Deployed Modifications publicly and electronicly available with no hurdles or access or readability related obfuscations. Source Code of Your Externally Deployed Modifications must be released under the terms set forth in this License, including the license grants set forth in Section 3 below, for as long as you Externally Deploy the Covered Code or twelve (24) months from the date of initial External Deployment, whichever is longer. You should preferably distribute the Source Code of Your Externally Deployed Modifications electronically (e.g. downloadable from an internationally availible website).
+    2.2 Modified Code. You may modify Covered Code and use, reproduce, display, perform, internally distribute within Your organization, and Externally Deploy Your Modifications and Covered Code, for commercial or non-commercial purposes, provided that in each instance You also meet all of these conditions:
+    (a) You must satisfy all the conditions of Section 2.1 with respect to the Source Code of the Covered Code;
+    (b) If You Externally Deploy Your Modifications, You must make Source Code of all Your Externally Deployed Modifications publicly and electronicly available with no hurdles or access or readability related obfuscations. Source Code of Your Externally Deployed Modifications must be released under the terms set forth in this License, including the license grants set forth in Section 3 below, for as long as you Externally Deploy the Covered Code or twelve (24) months from the date of initial External Deployment, whichever is longer. You should preferably distribute the Source Code of Your Externally Deployed Modifications electronically (e.g. downloadable from an internationally availible website).
 
-2.3 Distribution of Executable Versions. In addition, if You Externally Deploy Covered Code (Original Code and/or Modifications) in object code, executable/binary form, You must include a prominent notice, in the code itself as well as in related documentation, stating that Source Code of the Covered Code is available under the terms of this License with information on how and where to obtain such Source Code.
+    2.3 Distribution of Executable Versions. In addition, if You Externally Deploy Covered Code (Original Code and/or Modifications) in object code, executable/binary form, You must include a prominent notice, in the code itself as well as in related documentation, stating that Source Code of the Covered Code is available under the terms of this License with information on how and where to obtain such Source.
 
+    2.4 Activities other than distribution and/or modification of the Work are not covered by this license; they are outside its scope. In particular, the act of running the Work is not restricted and no requirements are made concerning any offers of support for the Covered Work.
+
+    2.5 No information in the Derived Work implies that any persons, including (but not limited to) the authors of the original version of the Work, provide any support, including (but not limited to) the reporting and handling of errors, to recipients of the Derived Work unless those persons have stated explicitly that they do provide such support for the Derived Work.
+
+    2.6 Every component of the Derived Work contains prominent notices detailing the nature of the changes to that component, or a prominent reference to another file that is distributed as part of the Derived Work and that contains a complete and accurate log of the changes.
+   
+4. No Warranty:
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
