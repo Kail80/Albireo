@@ -4,14 +4,6 @@ The Open Sakura Public License
 
 OSPL Version 1.0, 2025
 
-CC0 1.0 Universal (CC0 1.0) Public Domain Dedication (See following notice)
-
-**Note:** The following license text is released under CC0 1.0 Universal for maximum freedom of reuse, modification, and sharing.  
-[Full legal text from: https://creativecommons.org/publicdomain/zero/1.0/legalcode]
-
-**This CC0 dedication applies only to the license text itself, _not_ to the software/project.**  
-The terms for this project is described in the license below.
-
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 Please read this License carefully before downloading this software. By downloading or using this software, you are agreeing to be bound by the terms of this License. If you do not or cannot agree to the terms of this License, do not download or use this software.
@@ -21,7 +13,12 @@ Please read this License carefully before downloading this software. By download
 
     1.2 "Covered Work" means the Original Code, Modifications, the combination of Original Code and any Modifications, and/or any respective portions thereof thats version is currently under this licence.
 
-    1.3 "Modification" Any procedure that produces a Derived Work under any applicable law - for example, the production of a file containing an original file associated with the Work or a significant portion of such a file, either verbatim or with modifications and/or translated into another language.
+    1.3 "Externally Deploy" means: (a) to sublicense, distribute or
+otherwise make Covered Code available, directly or indirectly, to
+anyone other than You; and/or (b) to use Covered Code, alone or as
+part of a Larger Work, in any way to provide a service, including but
+not limited to delivery of content, through electronic communication
+with a client other than You.
 
     1.4 "Larger Work" means a work which combines Covered Code or portions thereof with code not governed by the terms of this License.
 
@@ -36,14 +33,14 @@ Please read this License carefully before downloading this software. By download
     1.9 "You" or "Your" means an individual or a legal entity exercising rights under this License. For legal entities, "You" or "Your" includes any entity which controls, is controlled by, or is under common control with, You, where "control" means (a) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (b) ownership of fifty percent (50%) or more of the outstanding shares or beneficial ownership of such entity.
 
 
-2. Permitted and Unpermitted uses:
+3. Permitted and Unpermitted uses:
     2.1 Unmodified Code. You may use, reproduce, display, perform, internally distribute within Your organization, and Externally Deploy verbatim, unmodified copies of the Original Code, for only non-commercial purposes, provided that in each instance:
     (a) You must retain and reproduce in all copies of Original Code the copyright and other notices and disclaimers of the Original Code as they appear in the Original Code, and keep intact all notices in the Original Code that refer to this License; and
     (b) You must include a copy of this License in readable text with every copy of Covered Code and documentation You distribute or Externally Deploy, and You may not offer or impose any terms on such Source Code that alter or restrict this License or the recipients' rights hereunder, except as permitted under Section 6.
 
     2.2 Modified Code. You may modify Covered Code and use, reproduce, display, perform, internally distribute within Your organization, and Externally Deploy Your Modifications and Covered Code, for commercial or non-commercial purposes, provided that in each instance You also meet all of these conditions:
     (a) You must satisfy all the conditions of Section 2.1 with respect to the Source Code of the Covered Code;
-    (b) If You Externally Deploy Your Modifications, You must make Source Code of all Your Externally Deployed Modifications publicly and electronicly available with no hurdles or access or readability related obfuscations. Source Code of Your Externally Deployed Modifications must be released under the terms set forth in this License, including the license grants set forth in Section 3 below, for as long as you Externally Deploy the Covered Code or twelve (24) months from the date of initial External Deployment, whichever is longer. You should preferably distribute the Source Code of Your Externally Deployed Modifications electronically (e.g. downloadable from an internationally availible website).
+    (b) If You Externally Deploy Your Modifications, You must make Source Code of all Your Externally Deployed Modifications publicly, electronicly, and permenantly available with no access or readability related obfuscations. Source Code of Your Externally Deployed Modifications must be released under the terms set forth in this License, including the license grants set forth in Section 3 below, for as long as you Externally Deploy the Covered Code or twelve(12) months from the date of initial External Deployment, whichever is longer. You should preferably distribute the Source Code of Your Externally Deployed Modifications electronically (e.g. downloadable from an internationally availible website).
 
     2.3 Distribution of Executable Versions. In addition, if You Externally Deploy Covered Code (Original Code and/or Modifications) in object code, executable/binary form, You must include a prominent notice, in the code itself as well as in related documentation, stating that Source Code of the Covered Code is available under the terms of this License with information on how and where to obtain such Source.
 
